@@ -32,4 +32,4 @@ FinTrackAI/
 
 ## Контакты
 
-Telegram · Email
+fintrackaisupport@gmail.com
