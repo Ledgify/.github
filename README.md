@@ -11,20 +11,23 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 
-## Structure
+## Структура
 
 ```
 FinTrackAI/
-├── backend/    # Node.js API + Prisma ORM
-├── frontend/   # TypeScript + TailwindCSS
-└── .github/    # CI workflows
+├── backend/     # Node.js API + Prisma ORM
+├── frontend/    # TypeScript + TailwindCSS
+└── .github/     # CI workflows
 ```
 
 ## Команда
 
 | Участник | Роль |
 |----------|------|
-| [@aitryhard](https://github.com/aitryhard) | Разработчик |
+| [@aitryhard](https://github.com/aitryhard) | Fullstack |
+| [@AnotherL1fe](https://github.com/AnotherL1fe) | Frontend |
+| [@l1umenncs](https://github.com/l1umenncs) | Backend / DevOps |
+| [@mychoppabling](https://github.com/mychoppabling) | Frontend |
 
 ## Контакты
 
